@@ -8,7 +8,7 @@ export default function navbar() {
                  Skill Analyzer
                 </h2>
                 <div className="space-x-8">
-                    <a href="#home" className="text-gray-600 font-semibold hover:text-slate-800">
+                    <a href="#" className="text-gray-600 font-semibold hover:text-slate-800">
                         Home
                     </a>
                     <a href="#features" className="text-gray-600 font-semibold hover:text-slate-800">

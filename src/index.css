@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    @apply scroll-smooth;
+  }
   body {
     @apply min-h-screen bg-gradient-to-br from-purple-100 via-blue-100 to-pink-100;
   }
